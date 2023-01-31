@@ -10,7 +10,7 @@ Nesse projeto vamos criar toda a arquitetura da rede neural convolucional (CNN),
 * **Base de dados**
 A base de dados utilizada para o treinamento e dev da nossa rede neural foi o *CIFAR10*, que é um conjunto de dados de visão computacional estabelecido usado para reconhecimento de objetos. É um subconjunto do conjunto de dados de 80 milhões de imagens minúsculas e consiste em 60.000 imagens coloridas de 32 x 32 contendo uma das 10 classes de objetos, com 6.000 imagens por classe. Foi coletado por Alex Krizhevsky, Vinod Nair e Geoffrey Hinton.
 
-<img src= "https://imgur.com/QWzVf2A.jpg" widht='700'>
+<img align='center' src= "https://imgur.com/QWzVf2A.jpg" widht='500'>
 
 A base de dados pode ser encontrada em: https://www.kaggle.com/c/cifar-10
 
@@ -26,9 +26,9 @@ A principal razão por trás da popularidade deste modelo foi sua arquitetura si
 
 A rede tem 5 camadas com parâmetros que podem ser aprendidos e, portanto, denominada Lenet-5. Ele tem três conjuntos de camadas de convolução com uma combinação de agrupamento médio. Após as camadas de convolução e pooling médio, temos duas camadas totalmente conectadas. Por fim, um classificador Softmax que classifica as imagens em suas respectivas classes. Vale lembrar que a entrada para para o modelo é uma imagem em escala de cinza (1 só canal) nas dimensões de 32x32.
 
-<img src="https://imgur.com/5IRp8aO.jpg" width="700">
+<img align='center' src="https://imgur.com/5IRp8aO.jpg" width="700">
 
-<img src='https://imgur.com/j4fh28P.jpg' width='700'>
+<img align='center' src='https://imgur.com/j4fh28P.jpg' width='700'>
 
 # Pessoas Desenvolvedoras do Projeto
 
