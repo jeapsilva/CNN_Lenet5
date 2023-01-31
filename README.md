@@ -4,10 +4,10 @@
 
 # Descrição do Projeto 
 
-* **Introdução**
-Nesse projeto vamos criar toda a arquitetura da rede neural convolucional (CNN), treinar e avaliarmos a convergência do modelo desenvolvido. 
+**Introdução**
+Nesse projeto vamos criar toda a arquitetura da rede neural convolucional (CNN), treinar e avaliarmos a convergência do modelo desenvolvido. O modelo desenvolvido terá como foco classificar imagens de objetos. Para isso utilizou-se a função de perda Cross Entropy Loss e o Gradiente Descendente para otimização da rede neural.
 
-* **Base de dados**
+**Base de dados**
 A base de dados utilizada para o treinamento e dev da nossa rede neural foi o *CIFAR10*, que é um conjunto de dados de visão computacional estabelecido usado para reconhecimento de objetos. É um subconjunto do conjunto de dados de 80 milhões de imagens minúsculas e consiste em 60.000 imagens coloridas de 32 x 32 contendo uma das 10 classes de objetos, com 6.000 imagens por classe. Foi coletado por Alex Krizhevsky, Vinod Nair e Geoffrey Hinton.
 
 <p align="center">
