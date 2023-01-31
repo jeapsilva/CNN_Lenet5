@@ -3,8 +3,6 @@
 
 # Descrição do Projeto 
 
-# Projeto
-
 * **Introdução**
 Nesse projeto vamos criar toda a arquitetura da rede neural convolucional (CNN), treinar e avaliarmos a convergência do modelo desenvolvido. 
 
