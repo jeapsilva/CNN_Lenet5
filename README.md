@@ -34,7 +34,7 @@ A rede tem 5 camadas com parâmetros que podem ser aprendidos e, portanto, denom
 
 # Pessoas Desenvolvedoras do Projeto
 
-<a href="https://github.com/jesapsilva">Jéssica Aparecida Silva - Cientista de dados</a>
+<a href="https://github.com/jeapsilva">Jéssica Aparecida Silva - Cientista de dados</a>
 
 # Licença
 
